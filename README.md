@@ -1,5 +1,5 @@
 # WhereAreYouFrom
-Licence Plate Reader iOS Application using OCR technologies and CoreData
+License Plate Reader iOS Application using OCR technologies and CoreData
 
 ![Screenshots of the final result](https://github.com/omarmhaimdat/WhereAreYouFrom/blob/master/final-result.png "Final result")
 
