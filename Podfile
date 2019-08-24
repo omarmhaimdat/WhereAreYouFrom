@@ -6,10 +6,10 @@ target 'WhereAreYouFrom' do
   use_frameworks!
 
   # Pods for WhereAreYouFrom
-#  pod 'TesseractOCRiOS'
-#  pod 'SwiftOCR'
-#  pod 'Firebase/Analytics'
-#  pod 'Firebase/MLVision'
-#  pod 'Firebase/MLVisionTextModel'
+  pod 'TesseractOCRiOS'
+  pod 'SwiftOCR'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/MLVision'
+  pod 'Firebase/MLVisionTextModel'
 
 end

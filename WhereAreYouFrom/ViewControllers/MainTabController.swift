@@ -25,7 +25,7 @@ class MainTabBarController: UITabBarController {
         let viewController = UINavigationController(rootViewController: vc)
         viewController.tabBarItem.image = UIImage(named: "licence_plate")
         viewController.tabBarItem.imageInsets = UIEdgeInsets(top: 1, left: 0, bottom: -1, right: 0)
-        viewController.tabBarItem.title = "Licence Plates"
+        viewController.tabBarItem.title = "License Plates"
         
         let OcrVC = UINavigationController(rootViewController: OcrViewController())
         OcrVC.tabBarItem.image = UIImage(named: "ocr")

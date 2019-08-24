@@ -44,7 +44,7 @@ class ViewController: UIViewController {
     func setupTabBar() {
         view.backgroundColor = UIColor.white
         navigationController?.navigationBar.prefersLargeTitles = true
-        self.navigationItem.title = "Licence plates"
+        self.navigationItem.title = "License plates"
         self.navigationController?.navigationBar.isHidden = false
         self.navigationController?.navigationBar.barTintColor = .lightText
         self.setNeedsStatusBarAppearanceUpdate()
